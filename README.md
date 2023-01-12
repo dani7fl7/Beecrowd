@@ -10,3 +10,4 @@ Resoluções das questões do Beecrowd
 |  1004 | Simple Product | [Python](./Python/1004.py)|[Java](./Java/1004.java)|
 |  1005 | Average 1  | [Python](./Python/1005.py)|[Java](./Java/1005.java)|
 |  1006 | Average 2  | [Python](./Python/1006.py)|[Java](./Java/1006.java)|
+|  1007 | Difference  | [Python](./Python/1007.py)|[Java](./Java/1007.java)|
