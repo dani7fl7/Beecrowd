@@ -1,6 +1,8 @@
 # Beecrowd Soluções
 Resoluções das questões do Beecrowd
 
+1) Beginner
+
 | Problema  |  Nome  |  Solução  |  Solução  |
 | --------- | ------ | --------- | --------- |
 |  1000 | Hello World!  | [Python](./Python/1000.py)|[Java](./Java/1000.java)|
