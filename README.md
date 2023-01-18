@@ -1,4 +1,4 @@
-# Beecrowd Soluções
+# Beecrowd Solutions
 Resoluções das questões do Beecrowd
 
 1) Beginner
