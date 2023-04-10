@@ -15,3 +15,4 @@ Resoluções das questões do Beecrowd
 |  1007 | Difference  | [Python](./Beginner/Python/1007.py)|[Java](./Beginner/Java/1007.java)|
 |  1008 | Salary  | [Python](./Beginner/Python/1008.py)|[Java](./Beginner/Java/1008.java)|
 |  1009 | Salary With Bonus  | [Python](./Beginner/Python/1009.py)|[Java](./Beginner/Java/1009.java)|
+|  1010 | Simple Calculate | [Python](./Beginner/Python/1010.py)|[Java](./Beginner/Java/1010.java)|
