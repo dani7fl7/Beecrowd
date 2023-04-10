@@ -1,7 +1,7 @@
 # Beecrowd Solutions
 Resoluções das questões do Beecrowd
 
-1) Beginner
+1) [Beginner](./Beginner)
 
 | Problema  |  Nome  |  Solução  |  Solução  |
 | --------- | ------ | --------- | --------- |
